@@ -24,9 +24,9 @@ Osama        osama_eg@live.com         developer
 ----------------------------------------------------------------------------
 Osama        osama_eg@live.com         developer
 ----------------------------------------------------------------------------
-Osama        osama_eg@live.com         developer
+ahmed        ahmed_eg@live.com         accounting
 ----------------------------------------------------------------------------
-Osama        osama_eg@live.com         developer
+tarek        123@live.com              accounting
 ----------------------------------------------------------------------------
 ali          ali_eg@live.com           sales
 ----------------------------------------------------------------------------
